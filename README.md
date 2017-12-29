@@ -8,4 +8,5 @@
 
 ## 如何预览
 
-1、先点击Settings---->
+1、先点击Settings---->移动鼠标滚轮，找到：GitHub Pages项；将Source的None改为master branch，点击Save；
+2、保存成功后，点击GitHub Pages项下的网址https://chenchanghong.github.io/blog20171229/ 
